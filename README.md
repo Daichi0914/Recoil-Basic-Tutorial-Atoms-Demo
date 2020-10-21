@@ -4,5 +4,5 @@
 
 ***
 
-GitHub上でディレクトリ構成を VS Code みたいに表示してくれるChromの拡張機能お勧めです<br>
+GitHub上でディレクトリ構成を VS Code みたいに表示してくれるChromeの拡張機能お勧めです<br>
 → [Octotree](https://www.octotree.io/)
